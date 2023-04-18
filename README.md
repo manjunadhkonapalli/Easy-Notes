@@ -1,2 +1,2 @@
-# Keeper-app
+# Easy-Notes
 Clone of Google Keep Notes appliaction
